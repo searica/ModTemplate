@@ -13,7 +13,6 @@ using Logging;
 // If using Jotunn then the following files should be removed from Configs:
 // - ConfigManagerWatcher
 // - ConfigurationManagerAttributes
-// - SaveInvokeEvents
 // - ConfigFileExtensions should be editted to only include `DisableSaveOnConfigSet`
 
 // If not using Jotunn
