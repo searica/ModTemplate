@@ -1,6 +1,7 @@
 # ModTemplate
 
-Has a built-in file watcher so you can change configs by editing the config file on disk or via an in-game config manager.
+For managing configuration setting you can use an in-game configuration manager or 
+change configs by editing the config file on disk as this mod has a built in file watcher.
 
 ## Features
 
